@@ -32,7 +32,7 @@ MIT © [gromanev](http://lynx.pro)
 [npm-url]: https://www.npmjs.com/package/generator-ng-2-ts
 [travis-image]: https://travis-ci.org/gromanev/ng-2-ts.svg?branch=master
 [travis-url]: https://travis-ci.org/gromanev/ng-2-ts
-[daviddm-image]: https://david-dm.org/gromanev/generator-ng-2-ts.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/gromanev/generator-ng-2-ts
+[daviddm-image]: https://david-dm.org/gromanev/ng-2-ts.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/gromanev/ng-2-ts
 [coveralls-image]: https://coveralls.io/repos/gromanev/generator-ng-2-ts/badge.svg
 [coveralls-url]: https://coveralls.io/r/gromanev/generator-ng-2-ts
