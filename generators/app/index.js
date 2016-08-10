@@ -21,7 +21,7 @@ module.exports = yeoman.Base.extend({
       {
         type: 'confirm',
         name: 'someAnswer',
-        message: 'Вы точно хотите использовать мой генератор?',
+        message: 'Вы точно хотите использовать мой генератор)))?',
         default: true
       }
     ];
