@@ -29,7 +29,7 @@ MIT © [gromanev](http://lynx.pro)
 
 
 [npm-image]: https://badge.fury.io/js/generator-ng-2-ts.svg
-[npm-url]: https://npmjs.org/package/generator-ng-2-ts
+[npm-url]: https://www.npmjs.com/package/generator-ng-2-ts
 [travis-image]: https://travis-ci.org/gromanev/generator-ng-2-ts.svg?branch=master
 [travis-url]: https://travis-ci.org/gromanev/generator-ng-2-ts
 [daviddm-image]: https://david-dm.org/gromanev/generator-ng-2-ts.svg?theme=shields.io

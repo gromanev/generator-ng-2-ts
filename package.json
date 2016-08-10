@@ -1,13 +1,9 @@
 {
   "name": "generator-ng-2-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generator for simple Angular 2 with TypeScript",
   "homepage": "http://lynx.pro/ng2-ts",
-  "author": {
-    "name": "gromanev",
-    "email": "gromanev@gmail.com",
-    "url": "http://lynx.pro"
-  },
+  "author": "gromanev <gromanev@gmail.com> (http://lynx.pro)",
   "files": [
     "generators"
   ],
@@ -45,10 +41,19 @@
       "mocha": true
     }
   },
-  "repository": "gromanev/generator-ng-2-ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gromanev/generator-ng-2-ts.git"
+  },
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gromanev/generator-ng-2-ts/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
 }
