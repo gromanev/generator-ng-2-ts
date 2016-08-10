@@ -1,4 +1,4 @@
-# generator-ng-2-ts [![NPM version][npm-image]][npm-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ng-2-ts [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generator for simple Angular 2 with TypeScript
 
 ## Installation
