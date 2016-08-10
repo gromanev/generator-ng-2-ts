@@ -1,4 +1,4 @@
-# generator-ng-2-ts [![NPM version][npm-image]][npm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ng-2-ts [![NPM version][npm-image]][npm-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generator for simple Angular 2 with TypeScript
 
 ## Installation
@@ -30,5 +30,9 @@ MIT © [gromanev](http://lynx.pro)
 
 [npm-image]: https://badge.fury.io/js/generator-ng-2-ts.svg
 [npm-url]: https://npmjs.org/package/generator-ng-2-ts
+[travis-image]: https://travis-ci.org/gromanev/generator-ng-2-ts.svg?branch=master
+[travis-url]: https://travis-ci.org/gromanev/generator-ng-2-ts
+[daviddm-image]: https://david-dm.org/gromanev/generator-ng-2-ts.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/gromanev/generator-ng-2-ts
 [coveralls-image]: https://coveralls.io/repos/gromanev/generator-ng-2-ts/badge.svg
 [coveralls-url]: https://coveralls.io/r/gromanev/generator-ng-2-ts
